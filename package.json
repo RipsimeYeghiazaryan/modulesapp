@@ -1,0 +1,7 @@
+{
+  "name": "modulesapp",
+  "version": "1.0.0",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
